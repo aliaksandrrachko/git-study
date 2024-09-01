@@ -1,3 +1,4 @@
 First line in second file
 Hotfix in secondfile.txt
 Third line in second file
+Fourth line in second file
